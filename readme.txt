@@ -9,13 +9,3 @@ License: GPLv2 or later
 == Description ==
 
 Create and assign Primary Categories to filter your posts and custom posts
-
-Major features in Primary Categories include:
-* Enter Here!
-
-
-== Installation ==
-
-Upload the Primary Category plugin to your blog, Activate it..
-
-1, 2, 3: You're done!
